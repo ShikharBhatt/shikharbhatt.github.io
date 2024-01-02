@@ -20,7 +20,7 @@ If you think I can be helpful to you or your cause and would like to meet, pleas
 
 # Timeline
 
-- I am from originally from Kanpur, India. I have since lived in Mumbai, Pune, and  Berlin.
+- I am originally from Kanpur, India. I have since lived in Mumbai, Pune, and  Berlin.
 - I spent my childhood in Kanpur and completed my High School from there.
 - I moved to Mumbai in 2013, with the aim of studying for JEE. Though I did study, but couldn't crack the exam though.
 - In 2015, I got an admit in Maharashtra Institute of Technology, Pune to study engineering.
