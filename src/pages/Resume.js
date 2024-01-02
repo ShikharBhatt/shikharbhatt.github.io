@@ -36,7 +36,7 @@ const Resume = () => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
-            <h4><a href="/Shikhar_Bhatt.pdf" target="_blank">Download<FontAwesomeIcon icon={faFilePdf} /></a></h4>
+            <h4><a rel="noreferrer" href="https://github.com/ShikharBhatt/shikharbhatt.github.io/blob/main/public/Shikhar_Bhatt.pdf" target="_blank">Download<FontAwesomeIcon icon={faFilePdf} /></a></h4>
           </div>
         </div>
       </header>
