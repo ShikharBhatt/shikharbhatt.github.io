@@ -1,11 +1,13 @@
 
 # Intro
 
-I am currently employed as a Blockchain Engineer at Impactility, contributing to Shell Plc's Blockchain Center of Excellence. My role involves actively engaging in research and development initiatives, where I focus on leveraging innovative Ethereum Improvement Proposals (EIPs) and frameworks. These endeavors aim to enhance transparency and traceability within the renewable energy sector.
+I am currently employed as a Senior Software Engineer at Impactility, and contributing to Shell Plc's Blockchain Center of Excellence. My role involves actively engaging in research and development initiatives, where I focus on leveraging innovative Ethereum Improvement Proposals (EIPs) and frameworks. These endeavors aim to enhance transparency and traceability within the renewable energy sector.
 
 My specific area of passion lies in exploring identity solutions that harness the power of Decentralized Identifiers (DIDs), Verifiable Credentials, and Zero Knowledge Proofs.
 
-I possess proficiency in a range of programming languages, including Typescript, Javascript, and Python. Additionally, I am well-versed in popular frameworks such as ReactJS for front-end development and ExpressJS for back-end solutions. My skill set extends to both front-end and back-end software development, demonstrating a comprehensive understanding of the full software development lifecycle.
+I possess proficiency in a range of programming languages, including Typescript, Javascript, and Python. Additionally, I am well-versed in popular frameworks such as ReactJS for front-end development and NestJS/ExpressJS for back-end solutions. My skill set extends to both front-end and back-end software development, demonstrating a comprehensive understanding of the full software development lifecycle.
+
+I'm parallelly pursuing my Masters in Sciences in Computer Science from Georgia Institute of Technology, also know as Georgia Tech. I'm enrolled in their OMSCS program.
 
 If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
 
@@ -28,6 +30,7 @@ If you think I can be helpful to you or your cause and would like to meet, pleas
 - In 2021, I joined Impactility as a Blockchain Engineer.
 - In 2022, I moved to Berlin to work with the Impactility folks out there.
 - In 2023, I decided to come back to India, still continuing to work with Impactility & Shell.
+- In 2024, I got admitted to Georgia Tech's OMSCS program. 
 
 # I work towards
 
