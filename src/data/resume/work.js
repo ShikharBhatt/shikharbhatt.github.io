@@ -14,11 +14,12 @@
 const work = [
   {
     name: 'Impactility',
-    position: 'Software Engineer - Blockchain',
+    position: 'Senior Software Engineer - Blockchain',
     url: 'https://impactility.com',
     startDate: '2021-08-10',
     summary: '',
     highlights: [
+      'Contributed to open-source development of OWF VC-API codebase',
       'Working as part of Shell Plc’s Blockchain Centre of Excellence R&D team to develop enterprise ready web3 applications and infrastructure | Multisignature wallet, RPC nodes, Gasless payments, etc.',
       'Developed an open source Ethers.js compatible signer for Azure Key Vault using TypeScript | http://bit.ly/3RcLJz2',
       'Developed a decentralized app for the COP27 conference participants to offset their air travel’s carbon emissions using on-chain credits from Toucan Protocol | http://bit.ly/3Jf0qQp',

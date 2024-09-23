@@ -40,6 +40,11 @@ const skills = [
     category: ['Web Development', 'Frameworks'],
   },
   {
+    title: 'NestJS',
+    competency: 5,
+    category: ['Web Development', 'Frameworks'],
+  },
+  {
     title: 'Ethereum',
     competency: 5,
     category: ['Blockchain'],
