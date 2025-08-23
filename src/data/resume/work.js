@@ -19,6 +19,8 @@ const work = [
     startDate: '2021-08-10',
     summary: '',
     highlights: [
+      'Helping launch Watr Protocol - a web3 infrastructure for commodity trade, financing & participation',
+      'Worked with Hitachi Digital Services to develop a Corporate Sustainability Reporting Tool "RITA"',
       'Contributed to open-source development of OWF VC-API codebase',
       'Working as part of Shell Plc’s Blockchain Centre of Excellence R&D team to develop enterprise ready web3 applications and infrastructure | Multisignature wallet, RPC nodes, Gasless payments, etc.',
       'Developed an open source Ethers.js compatible signer for Azure Key Vault using TypeScript | http://bit.ly/3RcLJz2',

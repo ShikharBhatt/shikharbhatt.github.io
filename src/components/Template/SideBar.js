@@ -20,8 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Shikhar. I am a Senior Software Engineer with full-stack capabilities.
-        I have 5+ years of experience. I completed my Bachelor&apos;s of Engineering in
-        Information Technology from University of Pune and currently pursing my
+        I have 6+ years of experience in professional landscape. I completed my Bachelor&apos;s
+        of Engineering in Information Technology from University of Pune and currently pursing my
         MS in Computer Science from Georgia Tech.
       </p>
       <ul className="actions">
