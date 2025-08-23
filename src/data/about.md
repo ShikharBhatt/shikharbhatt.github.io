@@ -1,7 +1,7 @@
 
 # Intro
 
-I am currently employed as a Senior Software Engineer at Impactility, and contributing to Shell Plc's Blockchain Center of Excellence. My role involves actively engaging in research and development initiatives, where I focus on leveraging innovative Ethereum Improvement Proposals (EIPs) and frameworks. These endeavors aim to enhance transparency and traceability within the renewable energy sector.
+I am currently employed as a Senior Software Engineer at Impactility. My role involves actively engaging in research and development initiatives, where I focus on leveraging innovative Ethereum Improvement Proposals (EIPs) and frameworks. These endeavors aim to enhance transparency and traceability within the renewable energy sector.
 
 My specific area of passion lies in exploring identity solutions that harness the power of Decentralized Identifiers (DIDs), Verifiable Credentials, and Zero Knowledge Proofs.
 
@@ -30,10 +30,24 @@ If you think I can be helpful to you or your cause and would like to meet, pleas
 - In 2021, I joined Impactility as a Blockchain Engineer.
 - In 2022, I moved to Berlin to work with the Impactility folks out there.
 - In 2023, I decided to come back to India, still continuing to work with Impactility & Shell.
-- In 2024, I got admitted to Georgia Tech's OMSCS program. 
+- In 2024, I got admitted to Georgia Tech's OMSCS program.
 
 # I work towards
 
 - finding constant inspiration.
 - enabling a brighter future and supporting my family.
 - doing better in all aspects of life.
+
+# Books I've read till date
+
+- Animal Farm - Goerge Orwell
+- To Kill a Mockingbird - Harper Lee
+- 1984 - George Orwell
+- The Great Gatsby - F. Scott Fitzgerald
+- Metamorphosis - Franz Kafka
+- The Things You Can Only See When You Slow Down - Haenim Sunim
+- The Gift of the Magi - O. Henry
+- Factfulness - Hans, Ola & Anna Rosling
+- The Psychology of Money - Morgan Housel
+- The Book Thief - Markus Zusak
+- All the Light we Cannot See - Anthony Doerr
