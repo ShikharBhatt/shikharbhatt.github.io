@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="Shikhar Bhatt & Leo" />
       </Link>
       <header>
         <h2>Shikhar Bhatt</h2>
@@ -20,9 +20,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Shikhar. I am a Senior Software Engineer with full-stack capabilities.
-        I have 6+ years of experience in professional landscape. I completed my Bachelor&apos;s
-        of Engineering in Information Technology from University of Pune and currently pursing my
-        MS in Computer Science from Georgia Tech.
+        I have 6+ years of professional experience. I completed my Bachelor of Engineering
+        in Information Technology from the University of Pune and am currently pursuing my
+        M.S. in Computer Science at Georgia Tech.
       </p>
       <ul className="actions">
         <li>

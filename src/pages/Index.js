@@ -14,11 +14,11 @@ const Index = () => (
           <h2><Link to="/">About this site</Link></h2>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
+      <p> Welcome to my website. You can read more <Link to="/about">about me</Link>,
+        explore my {' '}
         <Link to="/resume">resume</Link>, {' '}
         <Link to="/projects">projects</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        or <Link to="/contact">contact</Link> me directly.
       </p>
     </article>
   </Main>

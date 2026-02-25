@@ -1,46 +1,46 @@
 
 # Intro
 
-I am currently employed as a Senior Software Engineer at Impactility. My role involves actively engaging in research and development initiatives, where I focus on leveraging innovative Ethereum Improvement Proposals (EIPs) and frameworks. These endeavors aim to enhance transparency and traceability within the renewable energy sector.
+I am currently employed as a Senior Software Engineer at Impactility. I focus on research and development initiatives that leverage innovative Ethereum Improvement Proposals (EIPs) and related frameworks to enhance transparency and traceability in the renewable energy sector.
 
-My specific area of passion lies in exploring identity solutions that harness the power of Decentralized Identifiers (DIDs), Verifiable Credentials, and Zero Knowledge Proofs.
+I am particularly interested in identity solutions that harness the power of Decentralized Identifiers (DIDs), Verifiable Credentials, and Zero-Knowledge Proofs.
 
-I possess proficiency in a range of programming languages, including Typescript, Javascript, and Python. Additionally, I am well-versed in popular frameworks such as ReactJS for front-end development and NestJS/ExpressJS for back-end solutions. My skill set extends to both front-end and back-end software development, demonstrating a comprehensive understanding of the full software development lifecycle.
+I work with a range of programming languages, including TypeScript, JavaScript, and Python. I am also experienced with frameworks such as ReactJS for front-end development and NestJS/ExpressJS for back-end services, and I have hands-on experience across the full software development lifecycle.
 
-I'm parallelly pursuing my Masters in Sciences in Computer Science from Georgia Institute of Technology, also know as Georgia Tech. I'm enrolled in their OMSCS program.
+I am concurrently pursuing a Master of Science in Computer Science at the Georgia Institute of Technology (Georgia Tech) through the OMSCS program.
 
-If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+If you think I can be helpful to you or your organization and would like to connect, please feel free to get in touch.
 
 # Fun facts / Hobbies
 
-- I'm a Manchester United fan, GGMU!!
-- I've been watching Formula 1 since I was 5; admired Michael Schumacher & Sebastian Vettel; Spa-Francorchamps is my favourite circuit. 
-- Sometimes, I do a bit of origami.
-- I love listening to Progressive rock/metal music. Some recommended bands - Dream Theater, Haken, The Ocean Collective, Porcupine Tree, TOOL, .....
-- I've never bought an X-Box or a Playstation.
-- I still play games from the past - Call of Duty 1 & 2, RoadRash, GTA Vice City, Serious Sam - II.
+- I'm a Manchester United fan — GGMU!!
+- I've been watching Formula 1 since I was 5; I admire Michael Schumacher and Sebastian Vettel, and Spa-Francorchamps is my favourite circuit.
+- Sometimes I do a bit of origami.
+- I love listening to progressive rock and metal. Some favourite bands: Dream Theater, Haken, The Ocean Collective, Porcupine Tree, and TOOL.
+- I've recently started learning to play drums; I own an Alesis Nitro Max kit.
+- I still enjoy playing older games such as Call of Duty 1 & 2, Road Rash, GTA Vice City, and Serious Sam II.
 
 # Timeline
 
-- I am originally from Kanpur, India. I have since lived in Mumbai, Pune, and  Berlin.
-- I spent my childhood in Kanpur and completed my High School from there.
-- I moved to Mumbai in 2013, with the aim of studying for JEE. Though I did study, but couldn't crack the exam though.
-- In 2015, I got an admit in Maharashtra Institute of Technology, Pune to study engineering.
-- From 2019 to mid-2021, I worked as an Application Engineer at Schlumberger, Pune.
+- I am originally from Kanpur, India, and have since lived in Mumbai, Pune, and Berlin.
+- I spent my childhood in Kanpur and completed my high school education there.
+- I moved to Mumbai in 2013 to prepare for the JEE entrance exam. Although I studied hard, I ultimately did not clear the exam.
+- In 2015, I was admitted to Maharashtra Institute of Technology, Pune to study engineering.
+- From 2019 to mid-2021, I worked as an Application Engineer at Schlumberger in Pune.
 - In 2021, I joined Impactility as a Blockchain Engineer.
-- In 2022, I moved to Berlin to work with the Impactility folks out there.
-- In 2023, I decided to come back to India, still continuing to work with Impactility & Shell.
-- In 2024, I got admitted to Georgia Tech's OMSCS program.
+- In 2022, I moved to Berlin to work with the Impactility team there.
+- In 2023, I decided to return to India while continuing to work with Impactility and Shell.
+- In 2024, I was admitted to Georgia Tech's OMSCS program.
 
 # I work towards
 
 - finding constant inspiration.
 - enabling a brighter future and supporting my family.
-- doing better in all aspects of life.
+- continually improving in all aspects of life.
 
 # Books I've read till date
 
-- Animal Farm - Goerge Orwell
+- Animal Farm - George Orwell
 - To Kill a Mockingbird - Harper Lee
 - 1984 - George Orwell
 - The Great Gatsby - F. Scott Fitzgerald
@@ -50,4 +50,4 @@ If you think I can be helpful to you or your cause and would like to meet, pleas
 - Factfulness - Hans, Ola & Anna Rosling
 - The Psychology of Money - Morgan Housel
 - The Book Thief - Markus Zusak
-- All the Light we Cannot See - Anthony Doerr
+- All the Light We Cannot See - Anthony Doerr

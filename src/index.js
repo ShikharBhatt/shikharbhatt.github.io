@@ -11,7 +11,7 @@ const StrictApp = () => (
 
 const rootElement = document.getElementById('root');
 
-// hydrate is required by react-snap.
+// Use hydrate when server-rendered HTML exists, otherwise createRoot
 if (rootElement.hasChildNodes()) {
   hydrateRoot(rootElement, <StrictApp />);
 } else {

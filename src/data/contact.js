@@ -10,7 +10,7 @@ import { faMedium } from '@fortawesome/free-brands-svg-icons';
 const data = [
   {
     link: 'https://github.com/ShikharBhatt',
-    label: 'Github',
+    label: 'GitHub',
     icon: faGithub,
   },
   {

@@ -12,7 +12,7 @@ const About = () => {
           .then((r) => r.text())
           .then(setMarkdown);
       });
-  });
+  }, []);
 
   // const count = markdown.split(/\s+/)
   //   .map((s) => s.replace(/\W/g, ''))
@@ -25,7 +25,7 @@ const About = () => {
       <article className="post markdown" id="about">
         <header>
           <div className="title">
-            <h2>Hello &#128075;<br /> I am Shikhar!!</h2>
+            <h2>Hello &#128075;<br /> I&apos;m Shikhar.</h2>
           </div>
         </header>
         <Markdown>
