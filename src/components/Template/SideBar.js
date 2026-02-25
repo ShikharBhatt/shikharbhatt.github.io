@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import ContactIcons from '../Contact/ContactIcons';
+import ThemeToggle from './ThemeToggle';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
@@ -32,6 +33,7 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
+      <ThemeToggle />
       <ContactIcons />
       <p className="copyright">&copy; Shikhar Bhatt <Link to="/">shikharbhatt.github.io</Link>.</p>
     </section>

@@ -7,6 +7,47 @@
 /* Footer */
 
 	#footer {
+		.theme-toggle {
+			display: block;
+			margin-bottom: 0.75em;
+			padding: 0.4em 0;
+			background: transparent !important;
+			border: none !important;
+			box-shadow: none !important;
+			color: _palette(fg-light);
+			cursor: pointer;
+			font-size: 1.35em;
+			height: auto;
+			line-height: 1;
+			letter-spacing: normal;
+			text-transform: none;
+			transition: color _duration(transition) ease;
+
+			&::before,
+			&::after {
+				display: none !important;
+			}
+
+			&:hover {
+				color: _palette(accent);
+				box-shadow: none !important;
+			}
+
+			&:active {
+				background: transparent !important;
+				box-shadow: none !important;
+			}
+
+			&:focus {
+				outline: 1px dotted _palette(border-alt);
+				outline-offset: 3px;
+			}
+
+			&:focus:not(:focus-visible) {
+				outline: none;
+			}
+		}
+
 		.icons {
 			color: _palette(fg-light);
 		}
