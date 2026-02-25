@@ -1,11 +1,11 @@
 const skills = [
   {
-    title: 'Javascript',
+    title: 'JavaScript',
     competency: 4,
     category: ['Web Development', 'Programming Language', 'Blockchain'],
   },
   {
-    title: 'Node.JS',
+    title: 'Node.js',
     competency: 5,
     category: ['Web Development', 'Frameworks', 'Blockchain'],
   },
@@ -20,7 +20,7 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'ReactJS',
+    title: 'React',
     competency: 4,
     category: ['Web Development', 'Blockchain'],
   },
@@ -35,7 +35,7 @@ const skills = [
     category: ['Tools', 'Programming Language'],
   },
   {
-    title: 'Express.JS',
+    title: 'Express.js',
     competency: 5,
     category: ['Web Development', 'Frameworks'],
   },
@@ -80,7 +80,7 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Typescript',
+    title: 'TypeScript',
     competency: 5,
     category: ['Web Development', 'Programming Language'],
   },

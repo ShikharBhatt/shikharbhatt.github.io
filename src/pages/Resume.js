@@ -14,6 +14,8 @@ import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
 import { skills, categories } from '../data/resume/skills';
 
+const { PUBLIC_URL } = process.env;
+
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
@@ -25,7 +27,7 @@ const sections = {
 const Resume = () => (
   <Main
     title="Resume"
-    description="Shikhar Bhatt's Resume. Smile Identity, Arthena, Matroid, YC, Skeptical Investments, Stanford ICME, Planet, and Facebook."
+    description="Shikhar Bhatt's resume and professional experience."
   >
     <article className="post" id="resume">
       <header>
@@ -36,7 +38,7 @@ const Resume = () => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
-            <h4><a rel="noreferrer" href="https://github.com/ShikharBhatt/shikharbhatt.github.io/blob/main/public/Shikhar_Bhatt.pdf" target="_blank">Download<FontAwesomeIcon icon={faFilePdf} /></a></h4>
+            <h4><a rel="noreferrer" href={`${PUBLIC_URL}/Shikhar_Bhatt.pdf`} target="_blank">Download<FontAwesomeIcon icon={faFilePdf} /></a></h4>
           </div>
         </div>
       </header>

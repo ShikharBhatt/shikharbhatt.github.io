@@ -8,7 +8,7 @@ const Cell = ({ data }) => (
       <h3>{data.title}</h3>
       <p className="daterange">{data.subtitle}</p>
       <p className="daterange"> {dayjs(data.date).format('MMMM YYYY')}</p>
-      <a href={data.link} rel="noreferrer" target="_blank">{data.link}</a>
+      <a href={data.link} rel="noreferrer" target="_blank">View project →</a>
     </header>
     <br />
     {data.desc ? (

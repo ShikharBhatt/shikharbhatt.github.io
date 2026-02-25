@@ -1,0 +1,37 @@
+// Theme: CSS custom properties for light/dark mode.
+// Toggle via data-theme="dark" on <html>. Default is light.
+
+:root {
+  --palette-bg: #ffffff;
+  --palette-bg-alt: #f4f4f4;
+  --palette-fg: #646464;
+  --palette-fg-bold: #3c3b3b;
+  --palette-fg-light: #aaaaaa;
+  --palette-border: rgba(160, 160, 160, 0.3);
+  --palette-border-bg: rgba(160, 160, 160, 0.075);
+  --palette-border-alt: rgba(160, 160, 160, 0.65);
+  --palette-accent: #2e59ba;
+  --palette-accent-subtle: rgba(46, 89, 186, 0.05);
+}
+
+[data-theme='dark'] {
+  --palette-bg: #1e1e1e;
+  --palette-bg-alt: #252525;
+  --palette-fg: #b0b0b0;
+  --palette-fg-bold: #e0e0e0;
+  --palette-fg-light: #808080;
+  --palette-border: rgba(255, 255, 255, 0.12);
+  --palette-border-bg: rgba(255, 255, 255, 0.06);
+  --palette-border-alt: rgba(255, 255, 255, 0.35);
+  --palette-accent: #5b8de9;
+  --palette-accent-subtle: rgba(91, 141, 233, 0.12);
+}
+
+// Smooth transition when toggling theme (optional)
+html {
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+[data-theme='dark'] body {
+  background-color: var(--palette-bg-alt);
+}
