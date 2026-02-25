@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+
+  <rect width="64" height="64" fill="#FFFFFF"/>
+
+  <!-- Outer encoded S structure -->
+  <path d="M10 18 
+           H46 
+           V22 
+           H14 
+           V46 
+           H50"
+        stroke="#111827"
+        stroke-width="2"
+        fill="none"
+        stroke-linecap="square"
+        stroke-linejoin="miter"/>
+
+  <!-- Inner encoded B spine -->
+  <path d="M22 22 
+           V44 
+           H40 
+           V34 
+           H30 
+           V30 
+           H40 
+           V22"
+        stroke="#111827"
+        stroke-width="2"
+        fill="none"
+        stroke-linecap="square"
+        stroke-linejoin="miter"/>
+
+  <!-- Core accent -->
+  <rect x="32" y="26" width="3" height="10" fill="#2563EB"/>
+
+</svg>
